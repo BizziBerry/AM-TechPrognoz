@@ -22,7 +22,7 @@
 ## Сроки участия
   март - май 2025
 ## Лендинг
-- 
+- https://ai-hunter.ru/amai
 ## Контакты
 - Email: anelia.education@yahoo.com
   
